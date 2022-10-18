@@ -1,2 +1,2 @@
 # Library
-Library management system using flask,MongoDB,HTML,CSS
+Library management system using HTML,CSS,PHP,MySQL.
